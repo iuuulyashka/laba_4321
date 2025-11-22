@@ -1,0 +1,18 @@
+﻿  tolstaki.cpp
+C:\Users\balyb\source\repos\tolstaki\tolstaki.cpp(107,84): warning C4244: =: преобразование "_Rep" в "int", возможна потеря данных
+C:\Users\balyb\source\repos\tolstaki\tolstaki.cpp(107,84): warning C4244:         with
+C:\Users\balyb\source\repos\tolstaki\tolstaki.cpp(107,84): warning C4244:         [
+C:\Users\balyb\source\repos\tolstaki\tolstaki.cpp(107,84): warning C4244:             _Rep=__int64
+C:\Users\balyb\source\repos\tolstaki\tolstaki.cpp(107,84): warning C4244:         ]
+C:\Users\balyb\source\repos\tolstaki\tolstaki.cpp(135,46): warning C4566: символ, представленный универсальным именем символа "\u2713", невозможно представить в текущей кодовой странице (1251)
+C:\Users\balyb\source\repos\tolstaki\tolstaki.cpp(135,125): warning C4566: символ, представленный универсальным именем символа "\u2717", невозможно представить в текущей кодовой странице (1251)
+C:\Users\balyb\source\repos\tolstaki\tolstaki.cpp(139,46): warning C4566: символ, представленный универсальным именем символа "\u2713", невозможно представить в текущей кодовой странице (1251)
+C:\Users\balyb\source\repos\tolstaki\tolstaki.cpp(139,139): warning C4566: символ, представленный универсальным именем символа "\u2717", невозможно представить в текущей кодовой странице (1251)
+C:\Users\balyb\source\repos\tolstaki\tolstaki.cpp(143,46): warning C4566: символ, представленный универсальным именем символа "\u2713", невозможно представить в текущей кодовой странице (1251)
+C:\Users\balyb\source\repos\tolstaki\tolstaki.cpp(143,134): warning C4566: символ, представленный универсальным именем символа "\u2717", невозможно представить в текущей кодовой странице (1251)
+  Создание кода
+  0 of 184 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  tolstaki.vcxproj -> C:\Users\balyb\source\repos\tolstaki\x64\Release\tolstaki.exe
